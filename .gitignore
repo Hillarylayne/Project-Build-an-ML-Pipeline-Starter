@@ -145,3 +145,9 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+
+# Generated CSV files
+*.csv
+
+# W&B test directory
+wandb_test/
