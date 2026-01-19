@@ -11,8 +11,10 @@ In this project you will build such a pipeline.
  **Weights & Biases project (public):**  
   https://wandb.ai/hillary-merrill-western-governors-university/nyc_airbnb
 
- **GitHub repository (with releases):**  
+ **GitHub repository (with releases - latest release v.1.0.2):**  
   https://github.com/Hillarylayne/Project-Build-an-ML-Pipeline-Starter
+
+  
 
 
 ## Table of contents
